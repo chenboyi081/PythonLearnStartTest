@@ -1,0 +1,9 @@
+# Python3 面向对象：https://www.runoob.com/python3/python3-class.html
+# 1.0 类定义
+# 2.0 类对象
+# 2.1 self代表类的实例，而非类
+# 3.0 类的方法
+# 4.0 继承
+# 5.0 多继承
+# 6.0 方法重写
+# 7.0 类属性与方法
